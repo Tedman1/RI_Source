@@ -204,7 +204,7 @@ const Step1 = props => {
                                         ref={register({ required: true })}
                                         defaultChecked={state.data.interest === "4"}
                                     />
-                                    <label className="form-check-label" htmlFor="interest-3">I'm just curious.</label>
+                                    <label className="form-check-label" htmlFor="interest-3">I Need An SR-22.</label>
                                 </div>
                             </div>
                             {errors.interest && <div className="form_error">Please choose how we can help</div>}

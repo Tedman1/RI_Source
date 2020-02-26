@@ -24,7 +24,7 @@ export default () => (
             <Col>
                 <h5>Email</h5>
                 <ul>
-                    <a href="mailto:contact@wequotenevada.com?subject=I was on WeQuoteNevada.com and...">contact@WeQuoteNevada.com</a>
+                    <a href="mailto:contact@weinsurenevada.com?subject=I was on RebelInsuranceNV.com and...">contact@weinsurenevada.com</a>
                 </ul>
             </Col>
             <Col>

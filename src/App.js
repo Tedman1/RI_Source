@@ -50,7 +50,7 @@ function App() {
                                 <div className="site-title"><h1>Rebel Insurance</h1></div>
                             </div>
                         </a>
-                        <div className="links">call: <a href="tel:720-344-2400">(702) 344-2400</a></div>
+                        <div className="links">Call: <a href="tel:720-344-2400">(702) 344-2400</a></div>
                     </div>
                     <div className="slider">
 
